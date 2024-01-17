@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) - CodeChef
+# Data Structures and Algorithms (DSA) - CodeChef 
 
 ## Introduction
 This repository provides a comprehensive collection of Data Structures and Algorithms (DSA) solutions for various coding problems on CodeChef. The solutions are implemented in multiple programming languages and aim to help programmers improve their problem-solving skills and understanding of fundamental algorithms.
