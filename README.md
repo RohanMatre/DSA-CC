@@ -63,7 +63,7 @@ This repository provides a comprehensive collection of Data Structures and Algor
 - [Breadth-First Search (BFS)](/bfs-algorithm)
 - [Depth-First Search (DFS)](/dfs-algorithm)
 
-## Algorithms
+## Algorithms 
 ### Searching
 - [Linear Search](/linear-search)
 - [Binary Search](/binary-search)
