@@ -12,7 +12,7 @@ This repository provides a comprehensive collection of Data Structures and Algor
     - [Trees](#trees)
     - [Heaps](#heaps)
     - [Hash Tables](#hash-tables)
-    - [Graphs](#graphs)
+    - [Graphs](#graphs) 
 2. [Algorithms](#algorithms)
     - [Searching](#searching)
     - [Sorting](#sorting)
