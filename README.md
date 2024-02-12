@@ -6,7 +6,7 @@ This repository provides a comprehensive collection of Data Structures and Algor
 ## Table of Contents 
 1. [Data Structures](#data-structures)
     - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
+    - [Linked Lists](#linked-lists) 
     - [Stacks](#stacks)
     - [Queues](#queues)
     - [Trees](#trees)
